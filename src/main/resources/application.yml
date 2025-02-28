@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://hadoop-svr-01:3306/big_data?setUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2B8&useAffectedRows=true&useOldAliasMetadataBehavior=true
+    username: root
+    password: 883225
